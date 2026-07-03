@@ -1,5 +1,9 @@
 ## Hi there 👋
 I am Behrooz a senior AI Researcher in the field of applied AI and Data Science, interested in wearable sensing, HAR, sensor data analytics, XAI, and physical AI.
+- 🔭 I’m currently working on my old codes and refactor them
+- 🌱 I’m currently learning agentic engineering
+- 💬 Ask me about IMU sensing, HAR models, Edge AI, energy efficiency
+- 📫 How to reach me: email me bero(dot)azadi(at)outlook(dot)com
 <!--
 **behrooza/behrooza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
