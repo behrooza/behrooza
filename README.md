@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am Behrooz a senior AI Researcher in the field of applied AI and Data Science, interested in wearable sensing, HAR, sensor data analytics, XAI, and physical AI.
 <!--
 **behrooza/behrooza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
