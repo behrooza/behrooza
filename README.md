@@ -1,7 +1,7 @@
 ## Hi there 👋
 I am a Senior Researcher in the field of applied AI and Data Science, interested in wearable sensing, HAR, sensor data analytics, XAI, and physical AI.
-- 🔭 I’m currently working on my old codes and refactor them
-- 🌱 I’m currently learning agentic engineering
+- 🔭 currently working on my old codes and refactor them
+- 🌱 learning agentic engineering
 - 💬 Ask me about IMU sensing, HAR models, Edge AI, energy efficiency
 - 📫 How to reach me: email me bero(dot)azadi(at)outlook(dot)com
 <!--
